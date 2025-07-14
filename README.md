@@ -13,7 +13,7 @@ This repository contains data visualization images created using **Microsoft Exc
 Tableau is known for its powerful, interactive dashboards and data exploration capabilities. This section includes static snapshots of visualizations, as well as a link to interactive dashboards.
 
 - 📁 [View Tableau Images](https://github.com/martin-m-kinoti/scientific-comp/tree/main/Data%20Analytics/Tableu)
-- 🌐 [View Interactive Dashboards on Tableau Public](https://public.tableau.com/app/profile/martin.kinoti/vizzes)
+- 🌐 [View Interactive Dashboards on Tableau Public](https://public.tableau.com/app/profile/martex/vizzes)
 
 ---
 
