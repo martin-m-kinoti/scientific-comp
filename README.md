@@ -1,6 +1,6 @@
 # Data Analytics Images Repository
 
-![Data Analytics Image](link-to-your-image)
+![Data Analytics Image](https://github.com/martin-m-kinoti/scientific-comp/blob/main/analytics.jpeg)
 
 ## Data Visualization
 
