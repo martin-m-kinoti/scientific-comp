@@ -4,9 +4,7 @@
 
 ## Overview
 
-This repository showcases a collection of data visualization images created using **Microsoft Excel** and **Tableau**. These visuals demonstrate practical applications of data analysis techniques, including dashboards, trend analysis, and summary reports.
-
-The goal is to present how common data tools can be used effectively for storytelling, insight discovery, and business intelligence reporting.
+This repository contains data visualization images created using **Microsoft Excel** and **Tableau**. These visuals demonstrate practical applications of data analysis techniques, including dashboards, trend analysis, and summary reports.
 
 ---
 
