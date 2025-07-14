@@ -1,18 +1,26 @@
-# Data Analytics Images Repository
+# Data Analytics Images
 
-![Data Analytics Image](https://github.com/martin-m-kinoti/scientific-comp/blob/main/analytics.jpeg)
+![Data Analytics Banner](https://github.com/martin-m-kinoti/scientific-comp/blob/main/analytics.jpeg)
 
-## Data Visualization
+## Overview
 
-This repository contains a collection of data analytics images generated using Excel and Tableau. Each image showcases different visualizations and data analysis techniques, demonstrating the power of these tools in interpreting and presenting data.
+This repository showcases a collection of data visualization images created using **Microsoft Excel** and **Tableau**. These visuals demonstrate practical applications of data analysis techniques, including dashboards, trend analysis, and summary reports.
 
-## Tableau
+The goal is to present how common data tools can be used effectively for storytelling, insight discovery, and business intelligence reporting.
 
-The Tableau section features visualizations created using Tableau, a powerful data visualization tool known for its interactive and dynamic capabilities. Explore various charts, graphs, and dashboards designed to illustrate data trends and insights effectively.
+---
 
-## Excel
+## 📊 Tableau Visualizations
 
-The Excel section includes visual representations generated using Microsoft Excel, highlighting the versatility of Excel in creating charts, pivot tables, and other data-driven visuals. These images demonstrate Excel's role in data analysis and reporting.
+Tableau is known for its powerful, interactive dashboards and data exploration capabilities. This section includes static snapshots of visualizations, as well as a link to interactive dashboards.
 
-Feel free to explore the images and use them for reference or inspiration in your own data analysis projects.
+- 📁 [View Tableau Images](https://github.com/martin-m-kinoti/scientific-comp/tree/main/Data%20Analytics/Tableu)
+- 🌐 [View Interactive Dashboards on Tableau Public](https://public.tableau.com/app/profile/martin.kinoti/vizzes)
 
+---
+
+## 📈 Excel Visualizations
+
+Excel remains a go-to tool for quick and effective data analysis. This section includes visuals such as pivot tables, charts, conditional formatting, and summarized reports.
+
+- 📁 [View Excel Images](https://github.com/martin-m-kinoti/scientific-comp/tree/main/Data%20Essentials)
